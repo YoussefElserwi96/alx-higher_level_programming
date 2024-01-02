@@ -1,1 +1,1 @@
-readme for python first project
+readme for python projects
